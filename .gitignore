@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+.env
+.env.local
+
+# Playwright
+playwright/.cache/
+playwright/*/browser/
+
+# Logs
+logs/
+*.log
+hasil_scraping.csv
+session.json
+
+# OS
+.DS_Store
+Thumbs.db

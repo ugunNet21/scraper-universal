@@ -1,0 +1,6 @@
+# requirements.txt
+playwright
+python-dotenv
+ollama
+beautifulsoup4
+asyncio
