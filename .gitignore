@@ -18,6 +18,8 @@ logs/
 *.log
 hasil_scraping.csv
 session.json
+output
+analysis_summary.txt
 
 # OS
 .DS_Store
