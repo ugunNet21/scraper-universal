@@ -1,5 +1,7 @@
 # 🌐 Universal Scraper (AI + Auth + Multi-Platform)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 Universal Scraper adalah sistem scraping cerdas yang dapat:
 - 🔎 Scrape banyak platform (TikTok, YouTube, Instagram, Twitter/X, Google, Threads, Facebook)
 - 🤖 Menganalisis hasil menggunakan LLM (AI)
